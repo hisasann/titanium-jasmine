@@ -1,3 +1,6 @@
+This project is to corresponding CommonJS
+https://github.com/guilhermechapiewski/titanium-jasmine
+
 To run the application
 ======================
 
